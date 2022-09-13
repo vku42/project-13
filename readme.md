@@ -1,7 +1,7 @@
 
-# Creativity website 
+# Codext one website 
 
-Creativity website   
+Codext one website  made to boost your business  
 
 
 ## Author
@@ -29,8 +29,8 @@ I'm vikash a full stack web developer...
 
 ## Project link
 
- - [SOURCE CODE](https://github.com/vku42/project-14)
- - [DEPLOYMENT](https://project-14-ldhmpdfqb-vku42.vercel.app)
+ - [SOURCE CODE](https://github.com/vku42/project-13)
+ - [DEPLOYMENT](https://project-13-ibdcayq6i-vku42.vercel.app)
  
 
 
@@ -43,16 +43,19 @@ HTML, CSS, media query
 
 ## Screenshots
 
-![Screenshot](https://github.com/vku42/project-14/blob/main/14.png?raw=true)
+![Screenshot](https://github.com/vku42/project-13/blob/main/13.png?raw=true)
 
+![Screenshot](https://github.com/vku42/project-13/blob/main/m13.png?raw=true)
+
+![Screenshot](https://github.com/vku42/project-13/blob/main/m31.1.png?raw=true)
 
 
 
 
 ## Lessons Learned
 
-Made using flex box positning. this was hard to make website
-so many flex boxes used to make this website. overall it took me
-3 days to develop this website
+made this website through html and css alone learned image 
+cover, and contain concept. while making this website learned 
+new ways of making compplete website responsive
 
 
